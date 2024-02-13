@@ -1,2 +1,3 @@
 # apmacollege-demo
-This is my GIT Repository
+This is my first GIT Repository.
+Auther - Adil Khan
